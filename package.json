@@ -1,0 +1,24 @@
+{
+  "name": "random-str-msg-db",
+  "version": "1.0.0",
+  "description": "Random string generator messages for platzi curse",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dbravi/random-str-msg-db.git"
+  },
+  "author": "dbravi <damianbravi@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Dbravi/random-str-msg-db/issues"
+  },
+  "homepage": "https://github.com/Dbravi/random-str-msg-db#readme",
+  "bin": {
+    "random-str-msg": "./bin/global.js"
+
+  },
+  "preferGlobal": true
+}

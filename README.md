@@ -1,2 +1,2 @@
 # random-str-msg-db
-Random string generator messages for platzi curse
+Instalo paquete para capacitación de Quality-LaNacion

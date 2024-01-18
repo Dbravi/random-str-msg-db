@@ -1,2 +1,3 @@
 # random-str-msg-db
-Instalo paquete para capacitación
+
+Instalo paquete para capacitación - seteo Github actions
